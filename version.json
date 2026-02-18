@@ -2,5 +2,6 @@
   "version": "1.0.0",
   "download_url": "https://github.com/BVC2025/BVC-OARNGE-MACHINE-VERSION_CONTROLLER/releases/download/v1.1.0.0/ORANGE.Setup.1.0.0.exe",
   "release_notes": "Test Release.",
+  "mail_receiver_name": "BVC",
   "superAdmin_access_machine_password": "SuperAdmin@123"
 }
